@@ -4,4 +4,5 @@ node('linux') {
     stage('Test') {
         sh "env"
     }
-
+    
+}
